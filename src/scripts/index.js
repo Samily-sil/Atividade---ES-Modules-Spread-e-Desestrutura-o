@@ -1,3 +1,6 @@
+import { usuarios } from "./dbUsers.js";
+import { enderecos } from "./dbAddress.js";
+
 /*
   Importe corretamente as constantes usuarios e enderecos dos arquivos
   dbUsers.js e dbAdress.js, respecitvamente
